@@ -1,6 +1,6 @@
 # Now we have a premise. We are in a room and we have two door to choose from.
 # We are still in the blue room. What do we do with the treasure chest?
-# New code starts at line 52
+# New code starts at line 64
 #
 # Length of a list, excaping characters and more string manipulations
 #
@@ -61,6 +61,7 @@ def blue_door_room():
             for treasure in treasure_chest:
                 print(treasure)
 
+            # NEW CODE STARTS HERE
             # So much treasure, what to do? Take it or leave it.
             print("What do you want to do?")
 

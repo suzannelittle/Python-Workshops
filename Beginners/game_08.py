@@ -52,6 +52,7 @@ def blue_door_room():
             for treasure in treasure_chest:
                 print(treasure)
 
+            # NEW CODE
             # So much treasure, what to do? Take it or leave it.
             print("What do you want to do?")
 
