@@ -17,7 +17,7 @@ def main():
     ## 1.2 - Refined
     ##
     ## Comment out line 6 by putting # where the code the line starts
-    ## Uncomment lines 17 and 23
+    ## Uncomment lines 25 and 31
 
     ## player_name is a variable, it is created to store objects like strings, numbers
     ## Remember to give variables memorable names or else when you review your code
@@ -30,7 +30,7 @@ def main():
     #
     #print(f"Your name is {player_name}")
 
-    ## Now uncomment line 28
+    ## Now uncomment line 37
     ##
     ## Some neat tricks with string manipulations:-
     ## This turns your string all to uppercase
