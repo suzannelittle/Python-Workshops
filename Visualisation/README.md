@@ -19,3 +19,20 @@ The workshop will be mostly practical and will start from the point where relati
 # Resources
 
 * [10 minutes to pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html) is useful to learn more about data preparation and manipulation
+* [Using Juypter Notebooks]()
+
+## Visualisation
+* People
+  * Andy Kirk @visualisingdata
+  * Cole Nussbaumer Knaflic @storywithdata
+  * Gregor Aisch @driven_by_data, https://driven-by-data.net/
+  * Stephanie Evergreen @evergreendata
+  * Edward Tufte
+  * Stephen Few
+* Websites
+* Books (mostly by the people above)
+  * Andy Kirk: "Data Visualisation"
+  * Cole Nussbaumer Knaflic: "Storytelling with Data"
+  * Alberto Cairo: "The Truthful Art"
+  * Stephanie Evergreen: "Effective Data Visualization"
+  * Stephen Few: "Show Me the Numbers"
